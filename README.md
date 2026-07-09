@@ -22,20 +22,11 @@
 
 ### 🚀 Featured Projects
 
-**[FactLens](https://github.com/GarimaSaluja)** — AI hallucination detector built at HackHelix 2026 using Streamlit, LangChain & Groq API
+**[LegalMate](https://garimasaluja.github.io/Legalmate---JS-project/)** — Legal document simplifier powered by the Claude API
 
-**[LegalMate](https://GarimaSaluja.github.io/Legalmate---JS-project)** — Legal document simplifier powered by the Claude API
+**[Verdana](https://garimasaluja.github.io/Verdana/)** — AI-powered plant care app to identify, track and nurture your plants 🌱
 
-**[Verdana](https://github.com/GarimaSaluja)** — AI-powered plant care app to identify, track and nurture your plants 🌱
-
----
-
-### 📊 GitHub Stats
-![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarimaSaluja&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaSaluja&layout=compact&theme=radical)
-
----
+-
 
 ### 📫 Connect with me
 <!-- Add your links below -->
