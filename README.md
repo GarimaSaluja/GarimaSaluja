@@ -27,9 +27,9 @@
 **[Verdana](https://garimasaluja.github.io/Verdana/)** — AI-powered plant care app to identify, track and nurture your plants 🌱
 
 ---
-![Your GitHub stats](https://github-readme-stats-sigma-black.vercel.app/api?username=GarimaSaluja&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=GarimaSaluja)
 
-![Top Langs](https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=GarimaSaluja&layout=compact&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GarimaSaluja)
 
 ### 📫 Connect with me
 <!-- Add your links below -->
