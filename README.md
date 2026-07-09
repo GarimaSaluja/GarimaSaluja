@@ -32,5 +32,5 @@
 <!-- Add your links below -->
 [LinkedIn](https://www.linkedin.com/in/garima-saluja-686310397/?skipRedirect=true) 
 • [Instagram](https://www.instagram.com/garima._.0107/)
-• [Email](garimasaluja5736@gmail.com)## Hi there 👋
+• [Email](garimasaluja5736@gmail.com)
 
